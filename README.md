@@ -1,6 +1,6 @@
-# WebSiteBasic <img src="https://media.giphy.com/media/W23QYxLYjRp87yFlFC/giphy.gif" width="100" heigth="100" />
+# Web Site Basic <img src="https://media.giphy.com/media/W23QYxLYjRp87yFlFC/giphy.gif" width="100" heigth="100" />
 
-## Display https://bryanuziel.github.io/WebSiteBasic/index.html
+### <a href="https://bryanuziel.github.io/WebSiteBasic/index.html">Ver Proyecto</a>
 ## tools applied
 * JQuery 
 * JQueryUI
@@ -8,3 +8,6 @@
 * HTML
 * CSS
 
+## Descripción
+
+Es un bosquejo de una pagina web donde enseña algunas de funcionalidades de lo que se puede hacer con JQuery.
