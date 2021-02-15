@@ -1,4 +1,4 @@
-# Sitio Web Basico <img src="https://media.giphy.com/media/W23QYxLYjRp87yFlFC/giphy.gif" width="100" heigth="100" />
+# Sitio Web Basico 
 
 ### <a href="https://bryanuziel.github.io/WebSiteBasic/index.html">Ver Proyecto</a>
 ## tools applied
