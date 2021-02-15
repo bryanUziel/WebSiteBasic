@@ -10,4 +10,4 @@
 
 ## Descripción
 
-Es un bosquejo de una pagina web donde enseña algunas de funcionalidades de lo que se puede hacer con JQuery.
+Es un bosquejo de una pagina web donde enseña algunas de funcionalidades de lo que se puede hacer con HTML,CSS,JS y con el framework <a href="https://jquery.com/">jQuery</a>
